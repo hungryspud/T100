@@ -96,7 +96,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="data\917610488_T_T100_MARKET_ALL_CARRIER.csv" />
+    <None Include="data\917610488_T_T100_SEGMENT_ALL_CARRIER.csv" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
